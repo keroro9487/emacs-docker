@@ -1,4 +1,4 @@
 #!/bin/bash
 
 cd $HOME && \
-/usr/local/bin/emacs $@
+/usr/local/bin/emacs "$@"
